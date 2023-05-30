@@ -1,0 +1,10 @@
+Controls:
+
+w: speed up
+s: slow down
+a: turn left
+d: turn right
+spacebar: shoot
+
+don't let the asteroids hit you, and your shrink ray 
+has to recharge after every shot
